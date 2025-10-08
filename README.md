@@ -68,9 +68,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.png" />
-  <img alt="snake" src="dist/github-snake.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.jpeg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.jpeg" />
+  <img alt="snake" src="dist/github-snake.jpeg" />
 </picture>
 
 ###
