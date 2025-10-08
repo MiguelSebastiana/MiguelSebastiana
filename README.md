@@ -52,7 +52,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://blog.marlonhenq.dev/posts/3/images/capa.png"](https://i.ibb.co/TDwQj4wj/miguel-Quebra-Codigos2.jpg)  />
+  <img height="200" src=["https://blog.marlonhenq.dev/posts/3/images/capa.png"](https://i.ibb.co/TDwQj4wj/miguel-Quebra-Codigos2.jpg)  />](https://i.ibb.co/CpwjCbwC/miguel-Quebra-Codigos2.jpg)
 </div>
 
 ###
