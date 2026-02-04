@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://blog.marlonhenq.dev/posts/3/images/capa.png"](https://i.ibb.co/TDwQj4wj/miguel-Quebra-Codigos2.jpg)  />
+  <img height="200" src="https://github.com/user-attachments/assets/c3f64dfb-4d8a-419d-9563-76d62dd35034" />
 </div>
 
 ###
