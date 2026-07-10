@@ -1,55 +1,70 @@
-<h1 align="left">Olá👋 Meu nome é Miguel Ricardo</h1>
+<div align="center">
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,000000,152238,00b4d8,000000&height=280&section=header&text=MIGUEL%20SEBASTIANA&fontSize=75&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=SYSTEMS%20DEVELOPER%20%&descAlignY=55&descAlign=50" width="100%"/>
+</p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00b4d8&center=true&vCenter=true&width=600&lines=>>+Building+Scalable+Enterprise+Ecosystems;>>+Mastering+High-Performance+Architectures;>>+Developing+Resilient+Full-Stack+Solutions" alt="Typing SVG" />
+</p>
 
-<h2 align="left">Um pouco sobre mim</h2>
+<p align="center">
+  <a href="https://instagram.com/mgl7_rd" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-###
-
-<h2 align="left">🎓 Atualmente cursando Técnico em Informática para Internet na WEG.<br>📚 Compartilho meus projetos acadêmicos e registro minha evolução na área de TI.<br>🚀 Focado em desenvolver e ampliar meus conhecimentos em tecnologia.</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-</div>
+<br>
 
 ---
 
-###
+### 📑 SYSTEM_CORE
+> **Atualmente cursando Técnico em Informática para Internet na WEG, utilizo este espaço para compartilhar meus projetos acadêmicos e registrar minha evolução na área de TI. Meu objetivo é desenvolver e ampliar constantemente meus conhecimentos em tecnologia, transformando cada desafio em aprendizado.**
+
+---
+
+### 💻 TECHNICAL_RESOURCES
+<br>
 
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/c3f64dfb-4d8a-419d-9563-76d62dd35034" />
+  <table border="0" style="border-collapse: collapse;">
+    <tr>
+      <td align="left" style="padding-right: 40px;">
+        <strong>◈ FRONTEND_CORE</strong><br>
+        <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
+      </td>
+      <td align="left">
+        <strong>◈ BACKEND_AND_SYSTEMS</strong><br>
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="left" style="padding-top: 20px; padding-right: 40px;">
+        <strong>◈ INFRA_AND_DATA</strong><br>
+        <img src="https://skillicons.dev/icons?i=docker,git&theme=dark" />
+      </td>
+      <td align="left" style="padding-top: 20px;">
+        <strong>◈ HARDWARE_AND_NETWORK</strong><br>
+        <img src="https://skillicons.dev/icons?i=arduino,figma&theme=dark" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" height="40" style="vertical-align: middle; padding-left: 10px;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+<br>
 
 ---
 
-<div align="left">
-  <a href="https://www.instagram.com/mgl7_rd" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+### 📈 CONTRIBUTION_FLOW
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelSebastiana&theme=react-dark&hide_border=true&area=true&color=00b4d8" width="100%" />
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00b4d8&center=true&vCenter=true&width=400&lines=System.status+%3D+'Optimized';_>+MiguelSebastiana.v4.0.0" alt="Typing SVG" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=miguelSebatiana&color=152238&style=flat-square&label=PROFILE_VIEW_LOGS" />
 </div>
 
-###
-
-
+</div>
