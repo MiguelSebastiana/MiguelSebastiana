@@ -29,21 +29,21 @@
     <tr>
       <td align="left" style="padding-right: 40px;">
         <strong>◈ FRONTEND_CORE</strong><br>
-        <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,ts,nextjs,react,vue,angular,svelte,tailwind,bootstrap,sass,vite,redux,jquery&theme=dark" />
       </td>
       <td align="left">
         <strong>◈ BACKEND_AND_SYSTEMS</strong><br>
-        <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=java,python,nodejs,express,nestjs,spring,cpp,cs,go,rust,php&theme=dark" />
       </td>
     </tr>
     <tr>
       <td align="left" style="padding-top: 20px; padding-right: 40px;">
         <strong>◈ INFRA_AND_DATA</strong><br>
-        <img src="https://skillicons.dev/icons?i=docker,git&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=docker,git,mongodb,postgres,supabase,aws,gcp,azure,kubernetes,linux,redis,mysql,sqlite,firebase,nginx&theme=dark" />
       </td>
       <td align="left" style="padding-top: 20px;">
         <strong>◈ HARDWARE_AND_NETWORK</strong><br>
-        <img src="https://skillicons.dev/icons?i=arduino,figma&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=arduino,figma,raspberrypi,c,bash,powershell,postman,blender,ps,ai,xd,linux&theme=dark" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" height="40" style="vertical-align: middle; padding-left: 10px;" />
       </td>
     </tr>
@@ -64,7 +64,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00b4d8&center=true&vCenter=true&width=400&lines=System.status+%3D+'Optimized';_>+MiguelSebastiana.v4.0.0" alt="Typing SVG" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=miguelSebatiana&color=152238&style=flat-square&label=PROFILE_VIEW_LOGS" />
+  <img src="https://komarev.com/ghpvc/?username=miguelSebastiana&color=152238&style=flat-square&label=PROFILE_VIEW_LOGS" />
 </div>
 
 </div>
