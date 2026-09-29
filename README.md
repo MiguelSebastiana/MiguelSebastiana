@@ -29,21 +29,21 @@
     <tr>
       <td align="left" style="padding-right: 40px;">
         <strong>◈ FRONTEND_CORE</strong><br>
-        <img src="https://skillicons.dev/icons?i=js,html,css,ts,nextjs,react,vue,angular,svelte,tailwind,bootstrap,sass,vite,redux,jquery&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,ts,nextjs,react,tailwind&theme=dark" />
       </td>
       <td align="left">
         <strong>◈ BACKEND_AND_SYSTEMS</strong><br>
-        <img src="https://skillicons.dev/icons?i=java,python,nodejs,express,nestjs,spring,cpp,cs,go,rust,php&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=java,python,spring&theme=dark" />
       </td>
     </tr>
     <tr>
       <td align="left" style="padding-top: 20px; padding-right: 40px;">
         <strong>◈ INFRA_AND_DATA</strong><br>
-        <img src="https://skillicons.dev/icons?i=docker,git,mongodb,postgres,supabase,aws,gcp,azure,kubernetes,linux,redis,mysql,sqlite,firebase,nginx&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=docker,git,postgres,linux,mysql&theme=dark" />
       </td>
       <td align="left" style="padding-top: 20px;">
         <strong>◈ HARDWARE_AND_NETWORK</strong><br>
-        <img src="https://skillicons.dev/icons?i=arduino,figma,raspberrypi,c,bash,powershell,postman,blender,ps,ai,xd,linux&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=arduino,figma,bash,powershell,postman,linux&theme=dark" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" height="40" style="vertical-align: middle; padding-left: 10px;" />
       </td>
     </tr>
